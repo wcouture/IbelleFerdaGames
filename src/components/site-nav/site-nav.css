@@ -10,9 +10,10 @@
 
 .site-nav a {
     color: #646464;
-    font-weight: bold;
+    font-weight: 400;
+    font-family: "lilita one", sans-serif;
 }
 
 a[matButton] {
-    background-color: #f5b43b;
+    background-color: #f8d89d;
 }
