@@ -9,10 +9,10 @@
 }
 
 .site-nav a {
-    color: #000;
+    color: #646464;
     font-weight: bold;
 }
 
-.site-nav a:hover {
-    color: #646464;
+a[matButton] {
+    background-color: #f5b43b;
 }

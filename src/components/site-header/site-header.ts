@@ -3,7 +3,7 @@ import { SiteNav } from '../site-nav/site-nav';
 
 @Component({
   selector: 'site-header',
-  imports: [SiteNav],
+  imports: [],
   templateUrl: './site-header.html',
   styleUrl: './site-header.css',
 })
