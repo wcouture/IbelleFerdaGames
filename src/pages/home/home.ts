@@ -1,8 +1,9 @@
 import { Component } from '@angular/core';
+import { PageContainer } from '../../components/page-container/page-container';
 
 @Component({
   selector: 'home-component',
-  imports: [],
+  imports: [PageContainer],
   templateUrl: './home.html',
   styleUrl: './home.css',
 })
