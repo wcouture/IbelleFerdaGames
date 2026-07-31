@@ -1,0 +1,101 @@
+.site-header {
+    padding: 1rem;
+    background-color: #f5cd91;
+
+    display: flex;
+    gap: 1rem;
+    width: 100%;
+
+    align-items: center;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-bottom: 1px solid #f5cd91;
+}
+
+.header-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+
+    color: rgb(204, 239, 255);
+    text-shadow: 2px 2px 0px #f79539;
+}
+
+.bitcount-ink-400 {
+  font-family: "Bitcount Ink", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0,
+    "SZP1" 0,
+    "SZP2" 0,
+    "XPN1" 0,
+    "XPN2" 0,
+    "YPN1" 0,
+    "YPN2" 0;
+}
+.bitcount-ink-600 {
+  font-family: "Bitcount Ink", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0,
+    "SZP1" 0,
+    "SZP2" 0,
+    "XPN1" 0,
+    "XPN2" 0,
+    "YPN1" 0,
+    "YPN2" 0;
+}
+
+.germania-one-regular {
+  font-family: "Germania One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+.edu-vic-wa-nt-hand-400 {
+  font-family: "Edu VIC WA NT Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.edu-vic-wa-nt-hand-600 {
+  font-family: "Edu VIC WA NT Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.playwrite-nz-guides-regular {
+  font-family: "Playwrite NZ Guides", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.jersey-10-charted-regular {
+  font-family: "Jersey 10 Charted", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.major-mono-display-regular {
+  font-family: "Major Mono Display", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lilita-one-regular {
+  font-family: "Lilita One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
