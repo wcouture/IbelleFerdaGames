@@ -10,6 +10,6 @@ RUN npm install --omit=dev
 
 COPY . .
 
-EXPOSE 3000
+EXPOSE 4200
 
-CMD ["node", "index.js"]
+CMD ["ng", "serve"]
