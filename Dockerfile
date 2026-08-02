@@ -5,7 +5,6 @@ COPY package*.json ./
 RUN npm ci
 
 COPY . .
-RUN npm run build --configuration=production
 
 EXPOSE 4200
 
