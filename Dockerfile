@@ -9,4 +9,4 @@ RUN npm run build --configuration=production
 
 EXPOSE 4200
 
-CMD ["npx", "ng", "serve"]
+CMD ["npm", "run", "start"]
